@@ -210,7 +210,7 @@
 		<dependency>
 		    <groupId>org.springframework.security</groupId>
 		    <artifactId>spring-security-oauth2-client</artifactId>
-		    <version>5.3.3.RELEASE</version>
+		    <version>5.3.10.RELEASE</version>
 		</dependency>
 
 		<!-- 이메일 인증 2018.11.20 KW -->
